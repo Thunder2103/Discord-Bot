@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "random bot will be remastered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.15",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "images-scraper": "^6.3.0",
+    "lazy": "^1.0.11",
+    "ms": "^2.1.3",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.8.3",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
